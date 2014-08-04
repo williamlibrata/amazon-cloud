@@ -1,2 +1,4 @@
+this file is a test!
+more from original
 this file is a test! and copy
 
